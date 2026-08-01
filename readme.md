@@ -1,4 +1,4 @@
-# CNN Face Mask / No-Mask Classifier
+# CNN Face Mask/No-Mask Classifier
 
 A convolutional neural network (CNN) model for binary classification of face images: detecting whether a person is wearing a mask or not.
 
